@@ -2682,9 +2682,9 @@ available-typed-arrays@^1.0.2:
     array-filter "^1.0.0"
 
 aws-crt@^1.9.7:
-  version "1.9.7"
-  resolved "https://registry.yarnpkg.com/aws-crt/-/aws-crt-1.9.7.tgz#150180aeed7fdbf4374ec99eaaab2970cfc62854"
-  integrity sha512-k1u7V3qlcemjx/eNHOlpsxSMRvgQ1S08Am+QiBDLVgWCp9gUlsB/qN+MVTmEjgR6llSp9Tdkpr9GROqUm+c4tg==
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/aws-crt/-/aws-crt-1.10.2.tgz#7a38f2377b96f4d2bfd16d7f3fee8479aea8e399"
+  integrity sha512-Ub4sXoI5TriNGxH2Sc3HKNDTY51Nm7YjN5M5Pdo9Cb8cNAlEDtZhYZBZbfqZVauYA/cD1Zufw6x3bQSxDrYtaQ==
   dependencies:
     axios "^0.21.4"
     cmake-js "6.1.0"
