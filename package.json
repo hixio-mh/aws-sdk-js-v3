@@ -40,7 +40,7 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "glob": "^7.1.6",
+    "glob": "^8.0.3",
     "rimraf": "^3.0.2",
     "yargs": "^15.1.0"
   },
